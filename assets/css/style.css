@@ -1,3 +1,4 @@
+/* Styling for Tag Elements */
 body  {
   background-color:black;
   font-family: 'Poppins', sans-serif;
@@ -59,6 +60,7 @@ footer h3 {
   font-family: 'Poppins', sans-serif;
 }
 
+/* Styling for Class Elements */
 .collapse1,
 .collapse2,
 .collapse3 {
@@ -154,6 +156,7 @@ footer h3 {
   padding-top: 2%;
 }
 
+/* Styling for ID Elements */
 #avatar1 {
   float: right;
   max-width: 100%;
