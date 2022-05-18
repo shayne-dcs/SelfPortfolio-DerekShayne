@@ -1,0 +1,61 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+}
+
+h2 {
+    color: brown;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.big {
+    font-size: 25px;
+}
+
+.tiny {
+    font-size: 10px;
+}
+
+.centered {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.fontfamily {
+    font-family: cursive;
+}
+
+.multiple {
+    font-size: 20px;
+    color: orange;
+    font-weight: bold;
+}
+
+.styledFont {
+    color: purple;
+    font-style: italic;
+}
+
+#styledImage {
+    border: 6px dotted powderblue;
+    background-color: grey;
+    margin: 25px;
+}
