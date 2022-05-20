@@ -19,4 +19,5 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 Published Link: https://shayne-dcs.github.io/SelfPortfolio-DerekShayne/
 
-![image](https://user-images.githubusercontent.com/104949845/168973861-6f944e38-5d54-4862-beac-46455ef70cc2.png)
+
+![screenshot](https://user-images.githubusercontent.com/104949845/169625266-b9993816-7abd-46fd-9eb7-acab291435b4.PNG)
